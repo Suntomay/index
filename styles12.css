@@ -101,7 +101,7 @@ li {
 
 header:first-child {
   padding: 10px 0;
-  border-bottom: 1px solid #ccc;
+  border-bottom: 2px solid #ccc;
 }
 
 .nav-list li:last-child {
