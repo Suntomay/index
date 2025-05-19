@@ -99,6 +99,11 @@ li {
   border-bottom: 1px solid #ccc;
 }
 
+header:first-child {
+  padding: 10px 0;
+  border-bottom: 1px solid #ccc;
+}
+
 .nav-list li:last-child {
   border-bottom: none;
 }
